@@ -27,7 +27,6 @@ string SetTimeToString(int time)
 }
 
 string solution(string video_len, string pos, string op_start, string op_end, vector<string> commands) {
-    string answer = "";
     
     int len = SetTimeToInt(video_len);
     int now = SetTimeToInt(pos);
