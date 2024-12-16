@@ -24,33 +24,28 @@ while (!que.empty())
 
 	if (val == y) answer = answer < cnt ? answer : cnt;
 
-	if (val + n <= y)
-	{
-		if (val + n <= y && (cnt + 1) < chk[val + n])
+	if (val + n <= y && (cnt + 1) < chk[val + n])
 		{
 			chk[val + n] = cnt + 1;
 			que.emplace(val + n, cnt + 1);
 		}
-	}
 	
 	
-	if (val * 2 <= y)
-	{
+
 		if (val * 2 <= y && (cnt + 1) < chk[val * 2])
 		{
 			chk[val * 2] = cnt + 1;
 			que.emplace(val * 2, cnt + 1);
 		}
-	}
+	
 
-	if (val * 3 <= y)
-	{
+	
 		if (val * 3 <= y && (cnt + 1) < chk[val * 3])
 		{
 			chk[val * 3] = cnt + 1;
 			que.emplace(val * 3, cnt + 1);
 		}
-	}
+	
 	
 
 }
