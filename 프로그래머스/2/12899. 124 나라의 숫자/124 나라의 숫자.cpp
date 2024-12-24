@@ -6,14 +6,15 @@ using namespace std;
 string solution(int n) {
     	int q = n;
 	int r = 0;
-	vector<int> num = { 1,2,4 };
+	vector<int> num = { 4,1,2};
 	vector<int> arr;
 	string answer = "";
-	while(q != 0)
+	while(q > 0)
 	{
-		r = (q - 1) % 3;
-		q = (q - 1) / 3;
-		
+		r = q % 3;
+        
+		q = q / 3;
+		if (r == 0) q -= 1;
 		arr.push_back(num[r]);
 
 	}
