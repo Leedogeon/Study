@@ -35,10 +35,6 @@ int solution(string s) {
         }
 
         int len = res.size() - 1;
-        for (int i = 0; i <= res.size(); i++)
-        {
-            answer += (res[i] - '0') * (int)pow(10, len);
-            len--;
-        }
+        answer = stoi(res);
     return answer;
 }
