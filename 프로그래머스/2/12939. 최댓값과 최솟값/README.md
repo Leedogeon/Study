@@ -1,10 +1,10 @@
 # [level 2] 최댓값과 최솟값 - 12939 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12939) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.13 MB, 시간: 0.06 ms
+메모리: 31.6 MB, 시간: 3.40 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 01월 10일 13:35:41
+2025년 11월 26일 13:59:59
 
 ### 문제 설명
 
