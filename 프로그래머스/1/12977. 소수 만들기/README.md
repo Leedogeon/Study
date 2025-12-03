@@ -1,10 +1,10 @@
 # [level 1] 소수 만들기 - 12977 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12977) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.21 MB, 시간: 26.53 ms
+메모리: 31.3 MB, 시간: 2.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 04일 16:51:12
+2025년 12월 03일 17:05:28
 
 ### 문제 설명
 
