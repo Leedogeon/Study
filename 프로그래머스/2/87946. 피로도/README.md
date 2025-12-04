@@ -1,10 +1,10 @@
 # [level 2] 피로도 - 87946 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87946) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.14 MB, 시간: 1.31 ms
+메모리: 33.6 MB, 시간: 18.27 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 11월 25일 22:31:21
+2025년 12월 04일 18:46:28
 
 ### 문제 설명
 
