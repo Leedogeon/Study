@@ -1,10 +1,10 @@
 # [level 2] 택배상자 - 131704 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131704) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131704?language=csharp) 
 
 ### 성능 요약
 
-메모리: 38.5 MB, 시간: 9.50 ms
+메모리: 57 MB, 시간: 29.30 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 07일 17:45:38
+2025년 12월 05일 14:20:49
 
 ### 문제 설명
 
