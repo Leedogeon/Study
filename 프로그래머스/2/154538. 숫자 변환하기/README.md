@@ -1,10 +1,10 @@
 # [level 2] 숫자 변환하기 - 154538 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/154538) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/154538?language=csharp) 
 
 ### 성능 요약
 
-메모리: 8.63 MB, 시간: 9.76 ms
+메모리: 34.8 MB, 시간: 8.74 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 16일 23:15:10
+2025년 12월 12일 11:29:16
 
 ### 문제 설명
 
